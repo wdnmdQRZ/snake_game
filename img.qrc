@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/map">
+        <file>XP.jpg</file>
+        <file>first.jpg</file>
+    </qresource>
+    <qresource prefix="/wav">
+        <file>sounds/died.wav</file>
+        <file>sounds/eat.wav</file>
+        <file>sounds/down.wav</file>
+        <file>sounds/left.wav</file>
+        <file>sounds/right.wav</file>
+        <file>sounds/up.wav</file>
+        <file>sounds/8bit.wav</file>
+    </qresource>
+</RCC>
